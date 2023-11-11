@@ -31,8 +31,8 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 ## Installation
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/mirza7860/React-StyledComponents-Portfolio.git`
-2. Navigate to the project directory: `cd React-StyledComponents-Portfolio`
+1. Clone the repository: `git clone https://github.com/mirza7860/Sahil-Portfolio.git`
+2. Navigate to the project directory: `cd Sahil-Portfolio`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm run dev`
 5. Open your browser and visit: `http://localhost:3000`
