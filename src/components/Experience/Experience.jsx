@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 const Experience = () => {
   return (
-    <Container className="#experience">
+    <Container id="#experience">
       <Wrapper>
         <Title>Experience</Title>
         <Desc>
