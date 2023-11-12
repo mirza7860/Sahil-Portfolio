@@ -15,7 +15,7 @@ export const Bio = {
     "Enthusiastic and self-motivated full-stack developer with a passion for creating innovative web applications. Skilled in both front-end and back-end development, with a strong track record of successful projects. With a passion for learning I am dedicated to delivering high-quality results.",
   github: "https://github.com/mirza7860",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "#",
   linkedin: "https://www.linkedin.com/in/mirza-sahil-alli-baig/",
 };
 
