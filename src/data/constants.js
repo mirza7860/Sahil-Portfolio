@@ -2,6 +2,7 @@ import Shopwave from "../images/ShopWave.png";
 import Netflix from "../images/NetFlix.png";
 import Ecommerce from "../images/ECOMMERCE-UI.png";
 import Calculator from "../images/CALCULATOR.png";
+import ToDo from "../images/to-do-list.png";
 export const Bio = {
   name: "Mirza Sahil Alli Baig ",
   roles: [
@@ -275,11 +276,11 @@ export const projects = [
     id: 6,
     title: "To-Do-List App",
     description:
-      "Designed a to-do list with HTML for structure, CSS for styling, and JavaScript for dynamic features. Integrated event listeners to facilitate task addition, removal, and completion tracking for an interactive user experience.",
-    image: Ecommerce,
+      "Designed a to-do-list with HTML for structure, CSS for styling, and JavaScript for dynamic features. Integrated event listeners to facilitate task addition, removal, and completion tracking for an interactive user experience.",
+    image: ToDo,
     tags: ["HTML", "CSS", "Javascript"],
     github: "https://github.com/mirza7860/To-Do-List",
-    webapp: "https://to-do-list-app-all.netlify.app/",
+    webapp: "https://to-do-app-all.netlify.app/",
   },
   {
     id: 7,
