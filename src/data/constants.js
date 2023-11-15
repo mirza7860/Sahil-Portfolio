@@ -3,6 +3,7 @@ import Netflix from "../images/NetFlix.png";
 import Ecommerce from "../images/ECOMMERCE-UI.png";
 import Calculator from "../images/CALCULATOR.png";
 import ToDo from "../images/to-do-list.png";
+import Myresume from "../data/myresume.pdf";
 export const Bio = {
   name: "Mirza Sahil Alli Baig ",
   roles: [
@@ -14,8 +15,7 @@ export const Bio = {
   description:
     "Enthusiastic and self-motivated full-stack developer with a passion for creating innovative web applications. Skilled in both front-end and back-end development, with a strong track record of successful projects. With a passion for learning I am dedicated to delivering high-quality results.",
   github: "https://github.com/mirza7860",
-  resume:
-    "#",
+  resume: Myresume,
   linkedin: "https://www.linkedin.com/in/mirza-sahil-alli-baig/",
 };
 
