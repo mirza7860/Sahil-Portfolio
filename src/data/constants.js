@@ -3,7 +3,7 @@ import Netflix from "../images/NetFlix.png";
 import Ecommerce from "../images/ECOMMERCE-UI.png";
 import Calculator from "../images/CALCULATOR.png";
 import ToDo from "../images/to-do-list.png";
-import Myresume from "../data/myresume.pdf";
+import Myresume from "../data/MirzaSahilAlliBaig_Resume.pdf";
 export const Bio = {
   name: "Mirza Sahil Alli Baig ",
   roles: [
