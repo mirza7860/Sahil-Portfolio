@@ -264,7 +264,7 @@ export const projects = [
   },
   {
     id: 5,
-    title: "Shopping Mater",
+    title: "Shopping Master",
     description:
       "Explore our cutting-edge shoes shopping website with a responsive UI design. Experience an incredible slider and selector for choosing shoes in various colors and sizes. Built with HTML, CSS, and JavaScript, this mobile-responsive site ensures a seamless shopping experience.",
     image: Ecommerce,
