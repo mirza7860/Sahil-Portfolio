@@ -181,30 +181,25 @@ export const projects = [
     webapp: "https://myblog-client.onrender.com",
   },
   {
-    id: 1,
-    title: "SHOPWAVE - An E-commerce app with payment-integration",
-    description:
-      "Immersive E-commerce app designed with React, Strapi, and Stripe. Dynamic UI with SASS, efficient content management, and robust payments for a secure, seamless, feature-rich experience.",
-    image: Shopwave,
-    tags: [
-      "React Js",
-      "React-Router-Dom",
-      "Redux & Redux Toolkit",
-      "SASS",
-      "Strapi",
-      "Stripe",
-      "PostgreSQL",
-      "CI/CD",
-      "AWS",
-      "S3",
-      "ec2",
-      "Elastic Beanstalk",
-      "Render",
-    ],
-    github:
-      "https://github.com/mirza7860/React-Strapi-Stripe-Ecommerce-Shopwave-Frontend",
-    webapp: "https://shopwave-ecommerce.onrender.com",
-  },
+  "id": 1,
+  "title": "SHOPWAVE with payment-integration",
+  "description": "Immersive E-commerce app designed with React, Strapi, and Stripe. Dynamic UI with SASS, efficient content management, and robust payments for a secure, seamless, feature-rich experience.",
+  "image": "Shopwave",
+  "tags": [
+    "React Js",
+    "React-Router-Dom",
+    "Redux & Redux Toolkit",
+    "SASS",
+    "Strapi",
+    "Stripe",
+    "PostgreSQL",
+    "CI/CD",
+    "Render",
+    "DigitalOcean"
+  ],
+  "github": "https://github.com/mirza7860/React-Strapi-Stripe-Ecommerce-Shopwave-Frontend",
+  "webapp": "https://shopwave-ecommerce.onrender.com"
+},
   {
     id: 2,
     title: "Social-media Api With documentation",
@@ -250,13 +245,11 @@ export const projects = [
     webapp: "https://netflix-firebase.onrender.com",
   },
   {
-    id: 4,
-    title: "Blog Api",
-    description:
-      "Developed a secure blog API with user authentication, JWT authorization, bcrypt password hashing. Implemented user registration, login, profile retrieval, post creation, update, and retrieval. Used Express, MongoDB, and Multer for file uploads.",
-    image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShlNMv-3RuJdgBqTAczFJh7R7BocZzz_Qrog&usqp=CAU",
-    tags: [
+    "id": 4,
+    "title": "Blog Api",
+    "description": "Deployed on AWS Elastic Beanstalk for scalability. Implemented user registration, login, profile retrieval, post creation, update, and retrieval, ensuring robust security practices.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShlNMv-3RuJdgBqTAczFJh7R7BocZzz_Qrog&usqp=CAU",
+    "tags": [
       "Node js",
       "Express jS",
       "MongoDB",
@@ -266,13 +259,11 @@ export const projects = [
       "mongoose",
       "cookie-parser",
       "multer",
-      "fs",
       "AWS",
-      "s3",
-      "ec2",
+      "Elastic Beanstalk"
     ],
-    github: "https://github.com/mirza7860/Blog-Api",
-    webapp: "https://opensocialmediapi.netlify.app",
+    "github": "https://github.com/mirza7860/Blog-Api",
+    "webapp": "https://openblogapi.netlify.app/"
   },
   {
     id: 5,
