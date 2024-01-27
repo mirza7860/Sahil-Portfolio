@@ -282,14 +282,14 @@ export const projects = [
     github: "https://github.com/mirza7860/To-Do-List",
     webapp: "https://to-do-app-all.netlify.app/",
   },
-  {
-    id: 7,
-    title: "Calculator App",
-    description:
-      "Built a calculator using HTML for structure, CSS for styling, and JavaScript for functionality. Interactivity implemented through event listeners, enabling users to perform basic arithmetic operations in the browser.",
-    image: Calculator,
-    tags: ["HTML", "CSS", "Javascript"],
-    github: "https://github.com/mirza7860/calculator-app/tree/main/calculator",
-    webapp: "https://calculator-responsive-web-app.netlify.app/",
-  },
+  // {
+  //   id: 7,
+  //   title: "Calculator App",
+  //   description:
+  //     "Built a calculator using HTML for structure, CSS for styling, and JavaScript for functionality. Interactivity implemented through event listeners, enabling users to perform basic arithmetic operations in the browser.",
+  //   image: Calculator,
+  //   tags: ["HTML", "CSS", "Javascript"],
+  //   github: "https://github.com/mirza7860/calculator-app/tree/main/calculator",
+  //   webapp: "https://calculator-responsive-web-app.netlify.app/",
+  // },
 ];
