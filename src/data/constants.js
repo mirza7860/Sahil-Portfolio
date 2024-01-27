@@ -217,7 +217,7 @@ export const projects = [
     ],
     github: "https://github.com/mirza7860/Complete-Social-Media-Backend",
     webapp:
-      "https://socialmediamy-backend-opensource-l3o5f.ondigitalocean.app/",
+      "http://social-media-env.ap-south-1.elasticbeanstalk.com/",
   },
   {
     id: 3,
