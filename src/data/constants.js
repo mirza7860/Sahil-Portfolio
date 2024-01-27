@@ -171,15 +171,18 @@ export const projects = [
       "Express Js",
       "jwt",
       "Bcrypt",
+      "AWS",
+      "S3",
+      "ec2",
+      "pm2",
       "Render",
-      "DigitalOcean",
     ],
     github: "https://github.com/mirza7860/Mern-Blog-Client",
     webapp: "https://myblog-client.onrender.com",
   },
   {
     id: 1,
-    title: "SHOPWAVE with payment-integration",
+    title: "SHOPWAVE - An E-commerce app with payment-integration",
     description:
       "Immersive E-commerce app designed with React, Strapi, and Stripe. Dynamic UI with SASS, efficient content management, and robust payments for a secure, seamless, feature-rich experience.",
     image: Shopwave,
@@ -192,8 +195,11 @@ export const projects = [
       "Stripe",
       "PostgreSQL",
       "CI/CD",
+      "AWS",
+      "S3",
+      "ec2",
+      "Elastic Beanstalk",
       "Render",
-      "DigitalOcean",
     ],
     github:
       "https://github.com/mirza7860/React-Strapi-Stripe-Ecommerce-Shopwave-Frontend",
@@ -201,13 +207,16 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Social-media Api",
+    title: "Social-media Api With documentation",
     description:
       "An Social Media api that provides users with a place to connect, share, and interact with other.This api is open sourced and you are free to contribute to this.",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4dJ2LkhMlYahyAPkMQI655TtSQ2PTgQPTcQ&usqp=CAU",
     tags: [
       "Node JS",
+      "AWS",
+      "ec2",
+      "beanstalk",
       "Express JS",
       "jwt",
       "Bcrypt",
@@ -217,7 +226,7 @@ export const projects = [
     ],
     github: "https://github.com/mirza7860/Complete-Social-Media-Backend",
     webapp:
-      "http://social-media-env.ap-south-1.elasticbeanstalk.com/",
+      "https://opensocialmediapi.netlify.app",
   },
   {
     id: 3,
@@ -258,9 +267,12 @@ export const projects = [
       "cookie-parser",
       "multer",
       "fs",
+      "AWS",
+      "s3",
+      "ec2",
     ],
     github: "https://github.com/mirza7860/Blog-Api",
-    webapp: "https://nice-tan-chimpanzee-sock.cyclic.app/",
+    webapp: "https://opensocialmediapi.netlify.app",
   },
   {
     id: 5,
