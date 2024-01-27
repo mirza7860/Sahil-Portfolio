@@ -184,7 +184,7 @@ export const projects = [
   "id": 1,
   "title": "SHOPWAVE with payment-integration",
   "description": "Immersive E-commerce app designed with React, Strapi, and Stripe. Dynamic UI with SASS, efficient content management, and robust payments for a secure, seamless, feature-rich experience.",
-  "image": "Shopwave",
+  "image": Shopwave,
   "tags": [
     "React Js",
     "React-Router-Dom",
