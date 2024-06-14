@@ -2,7 +2,7 @@ import Shopwave from "../images/ShopWave.png";
 import Netflix from "../images/NetFlix.png";
 import Ecommerce from "../images/ECOMMERCE-UI.png";
 import Calculator from "../images/CALCULATOR.png";
-import ToDo from "../images/to-do-list.png";
+import Kanban from "../images/Kanban.png";
 import Myresume from "../data/MirzaSahilAlliBaig_Resume.pdf";
 export const Bio = {
   name: "Mirza Sahil Alli Baig ",
@@ -283,17 +283,17 @@ export const projects = [
     "webapp": "https://openblogapi.netlify.app/"
   },
   {
-    id: 6,
-    title: "To-Do-List App",
+    id: 4,
+    title: "Kanban-Board",
     description:
-      "Designed a to-do-list with HTML for structure, CSS for styling, and JavaScript for dynamic features. Integrated event listeners to facilitate task addition, removal, and completion tracking for an interactive user experience.",
-    image: ToDo,
+      "📋 Drag & Drop Task Board: A simple task management board built with HTML, CSS, and JavaScript. Add, organize, and track tasks seamlessly with smooth drag-and-drop functionality.",
+    image: Kanban,
     tags: ["HTML", "CSS", "Javascript"],
-    github: "https://github.com/mirza7860/To-Do-List",
-    webapp: "https://to-do-app-all.netlify.app/",
+    github: "https://github.com/mirza7860/Kanban-Board",
+    webapp: "https://mirza7860.github.io/Kanban-Board",
   },
   {
-    id: 7,
+    id: 5,
     title: "Calculator App",
     description:
       "Built a calculator using HTML for structure, CSS for styling, and JavaScript for functionality. Interactivity implemented through event listeners, enabling users to perform basic arithmetic operations in the browser.",
