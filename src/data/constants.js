@@ -1,4 +1,3 @@
-import Shopwave from "../images/ShopWave.png";
 import Netflix from "../images/NetFlix.png";
 import Ecommerce from "../images/ECOMMERCE-UI.png";
 import Calculator from "../images/CALCULATOR.png";
