@@ -225,7 +225,7 @@ export const projects = [
       "Render",
     ],
     github: "https://github.com/mirza7860/Netflix-Firebase-App",
-    webapp: "https://netflix-firebase.onrender.com",
+    webapp: "https://movie-firebase.vercel.app",
   },
    {
     id: 1,
