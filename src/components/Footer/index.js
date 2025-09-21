@@ -98,7 +98,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.github} target="display"><Github/></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 {Bio.name}. All rights reserved.
+          &copy; 2025 {Bio.name}. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
